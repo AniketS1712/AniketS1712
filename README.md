@@ -1,4 +1,7 @@
 <!-- Banner / Hero Section -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Aniket+Singhal+%7C+Mobile-First+Developer+%26+Designer" alt="Hero Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm <span style="color:#ff9800;">Aniket Singhal</span></h1>
 <h3 align="center">🚀 I craft <span style="color:#ff9800;">mobile-first experiences</span> that scale gracefully across screens — blending creative spark with design thinking & developer precision.</h3>
 
