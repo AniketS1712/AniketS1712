@@ -24,11 +24,10 @@
 
 <!-- About Me -->
 ### 👨‍💻 About Me  
-- 🌱 Currently exploring **UI/UX Design + Advanced React**  
-- 💡 Passionate about building **mobile-first, user-centric** applications  
-- 🎯 2025 Goal: Launch **Local Community Barter Platform** as a real-world project  
-- ⚡ Fun Fact: I turn coffee into **pixel-perfect interfaces** ☕🎨
+I’m passionate about crafting **mobile-first, user-centric** applications that not only look great but feel effortless to use.  
+Currently, I’m deep-diving into **UI/UX Design** and **Advanced React** to push my design and development skills even further.  
 
+☕ Fun Fact: I turn coffee into **pixel-perfect interfaces** — blending **creativity** with **developer precision** so every pixel and interaction has a purpose.  
 ---
 
 <!-- Tech Stack -->
@@ -49,9 +48,9 @@
 ### 📌 Featured Projects  
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📱 Local Community Barter Platform](#) | A platform for local goods & skill exchange | MERN, UI/UX |
-| [🌱 Virtual Urban Farming Planner](#) | Plan & visualize your home garden | React, Tailwind |
-| [🎨 Portfolio Website](#) | Mobile-first personal portfolio site | React, Framer Motion |
+| [📱 business Monopoly Board Game](https://github.com/AniketS1712/BusinessGame) | A Board game of buying, selling, and taking rent | Flutter, Firebase |
+| [🌱 Samanvaya A Real-Time WhiteBoard Website](https://github.com/AniketS1712/Samanvaya/tree/master) | Plan & visualize with your team | React JS, Express JS, Node JS, MongoDB |
+| [🎨 Portfolio Website](https://saniket.vercel.app/) | Mobile-first personal portfolio site | React, Tailwind |
 
 ---
 
