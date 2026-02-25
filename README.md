@@ -72,10 +72,18 @@ I try to think like both a **developer and a designer**, so the final product ma
 
 ---
 
+## 📊 LEETCODE Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Aniket_Singhal?theme=dark&font=baloo&ext=contest" />
+</p>
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AniketS1712&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=AniketS1712&theme=dark" height="150"/>
 </p>
 
 ---
